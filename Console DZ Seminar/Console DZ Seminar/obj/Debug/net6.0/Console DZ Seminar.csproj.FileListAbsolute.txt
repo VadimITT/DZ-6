@@ -1,0 +1,15 @@
+C:\Users\В\source\repos\Console DZ Seminar\Console DZ Seminar\bin\Debug\net6.0\Console DZ Seminar.exe
+C:\Users\В\source\repos\Console DZ Seminar\Console DZ Seminar\bin\Debug\net6.0\Console DZ Seminar.deps.json
+C:\Users\В\source\repos\Console DZ Seminar\Console DZ Seminar\bin\Debug\net6.0\Console DZ Seminar.runtimeconfig.json
+C:\Users\В\source\repos\Console DZ Seminar\Console DZ Seminar\bin\Debug\net6.0\Console DZ Seminar.dll
+C:\Users\В\source\repos\Console DZ Seminar\Console DZ Seminar\bin\Debug\net6.0\Console DZ Seminar.pdb
+C:\Users\В\source\repos\Console DZ Seminar\Console DZ Seminar\obj\Debug\net6.0\Console DZ Seminar.csproj.AssemblyReference.cache
+C:\Users\В\source\repos\Console DZ Seminar\Console DZ Seminar\obj\Debug\net6.0\Console DZ Seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\В\source\repos\Console DZ Seminar\Console DZ Seminar\obj\Debug\net6.0\Console DZ Seminar.AssemblyInfoInputs.cache
+C:\Users\В\source\repos\Console DZ Seminar\Console DZ Seminar\obj\Debug\net6.0\Console DZ Seminar.AssemblyInfo.cs
+C:\Users\В\source\repos\Console DZ Seminar\Console DZ Seminar\obj\Debug\net6.0\Console DZ Seminar.csproj.CoreCompileInputs.cache
+C:\Users\В\source\repos\Console DZ Seminar\Console DZ Seminar\obj\Debug\net6.0\Console DZ Seminar.dll
+C:\Users\В\source\repos\Console DZ Seminar\Console DZ Seminar\obj\Debug\net6.0\refint\Console DZ Seminar.dll
+C:\Users\В\source\repos\Console DZ Seminar\Console DZ Seminar\obj\Debug\net6.0\Console DZ Seminar.pdb
+C:\Users\В\source\repos\Console DZ Seminar\Console DZ Seminar\obj\Debug\net6.0\Console DZ Seminar.genruntimeconfig.cache
+C:\Users\В\source\repos\Console DZ Seminar\Console DZ Seminar\obj\Debug\net6.0\ref\Console DZ Seminar.dll
